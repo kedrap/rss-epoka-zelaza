@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Epoka Żelaza</title>
+        <link>http://www.rockserwis.fm/serwis.do?menu=main&amp;pid=3113&amp;cat=15&amp;l=1</link>
+        <description><![CDATA[
+            Epoka Żelaza prezentuje muzyczne wykopaliska z lat 70. i 80. i tropi nowe
+            wcielenia dźwięków minionych dekad. Od hard rocka i klasycznego heavy przez doom metal
+            po psychodelię - krążymy po mniej lub bardziej uczęszczanych ścieżkach i nie dajemy się
+            nowoczesności...
+			]]></description>
+        <language>pl</language>
+        <copyright>Radio Rockserwis, Julia Miodyńska</copyright>
+        <image>
+            <url>http://www.rockserwis.fm/view/images/smok-radio.jpg</url>
+            <title>Radio Rockserwis</title>
+            <link>http://www.rockserwis.fm</link>
+        </image>
+
+        <item>
+            <title>ALICJA W KRAINIE GRUNGE'U</title>
+            <link>http://www.rockserwis.fm/ftp/9/24/[88856]_EPOKA_9.07.18.mp3</link>
+            <pubDate>Mon, 9 Jul 2000 18:00:00 GMT</pubDate>
+            <description><![CDATA[
+                Wskoczmy za Alicją do króliczej nory i przenieśmy się dwadzieścia-trzydzieści lat wstecz. Obecność na herbatce potwierdzili Szalony Kapelusznik, Belladonna i całkiem spora grupa wycieczkowa z Ameryki. Do usłyszenia po drugiej stronie lustra!
+			]]></description>
+            <guid>http://www.rockserwis.fm/ftp/9/24/[88856]_EPOKA_9.07.18.mp3</guid>
+            <itunes:image href="http://www.rockserwis.fm/ftp/6/255/[88831]_180709_ilustracja.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>MIĘDZY SCENĄ A STADIONEM</title>
+            <link>http://www.rockserwis.fm/ftp/2/216/[88024]_EPOKA_ZELAZA_25.06.18.mp3</link>
+            <pubDate>Mon, 25 Jun 2000 18:00:00 GMT</pubDate>
+            <description><![CDATA[
+                To aż niebezpieczne! W najbliższej audycji podgrzejemy jeszcze trochę sportowe emocje, które towarzyszą nam od ponad tygodnia. Rozruszamy się przed dwoma ważnymi koncertami, które czekają nas w najbliższych dniach - a z pewnym klawiszowcem, którego zobaczymy na jednym z nich, odbędziemy nieco dłuższe spotkanie. Do usłyszenia!
+			]]></description>
+            <guid>http://www.rockserwis.fm/ftp/2/216/[88024]_EPOKA_ZELAZA_25.06.18.mp3</guid>
+            <itunes:image href="http://www.rockserwis.fm/ftp/4/174/[87982]_180625_ilustracja.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+    </channel>
+</rss>
