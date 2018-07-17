@@ -1,44 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<?xml version="1.0" encoding="utf-8" ?>
+    <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/">
     <channel>
-        <title>Epoka Żelaza</title>
-        <link>http://www.rockserwis.fm/serwis.do?menu=main&amp;pid=3113&amp;cat=15&amp;l=1</link>
-        <description><![CDATA[
-            Epoka Żelaza prezentuje muzyczne wykopaliska z lat 70. i 80. i tropi nowe
-            wcielenia dźwięków minionych dekad. Od hard rocka i klasycznego heavy przez doom metal
-            po psychodelię - krążymy po mniej lub bardziej uczęszczanych ścieżkach i nie dajemy się
-            nowoczesności...
-			]]></description>
-        <language>pl</language>
-        <copyright>Radio Rockserwis, Julia Miodyńska</copyright>
+        <title>The Polyglot Developer Podcast</title>
+        <link>https://www.thepolyglotdeveloper.com</link>
         <image>
-            <url>http://www.rockserwis.fm/view/images/smok-radio.jpg</url>
-            <title>Radio Rockserwis</title>
-            <link>http://www.rockserwis.fm</link>
+            <url>http://podcasts.thepolyglotdeveloper.com/images/the-polyglot-developer-podcast.png</url>
+            <title>The Polyglot Developer Podcast</title>
+            <link>https://www.thepolyglotdeveloper.com</link>
         </image>
+        <description>
+Software Engineer and Developer Advocate, Nic Raboy, shares all his tips and tricks to becoming a polyglot developer.  Learn about the latest trends in web, mobile, and game development and how you can quickly get ahead in becoming an incredible developer.  With a background in programming languages such as Java, Android, Node.js, and Golang and a background with frameworks such as Express, Ionic Framework, NativeScript, Zend Framework, and Apache Cordova, Nic Raboy is a polyglot with a lot to share.
+
+Find complex code tutorials on my blog found at https://www.thepolyglotdeveloper.com and my YouTube channel found at https://www.youtube.com/user/nicraboy
+        </description>
+        <language>en-us</language>
+        <copyright>Nic Raboy copyright 2018</copyright>
+        <atom:link href="http://podcasts.thepolyglotdeveloper.com/podcast.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sat, 02 Jun 2018 06:00:00 PDT</lastBuildDate>
+        <itunes:author>Nic Raboy</itunes:author>
+        <itunes:summary>
+Software Engineer and Developer Advocate, Nic Raboy, shares all his tips and tricks to becoming a polyglot developer.  Learn about the latest trends in web, mobile, and game development and how you can quickly get ahead in becoming an incredible developer.  With a background in programming languages such as Java, Android, Node.js, and Golang and a background with frameworks such as Express, Ionic Framework, NativeScript, Zend Framework, and Apache Cordova, Nic Raboy is a polyglot with a lot to share.
+
+Find complex code tutorials on my blog found at https://www.thepolyglotdeveloper.com and my YouTube channel found at https://www.youtube.com/user/nicraboy
+        </itunes:summary>
+        <itunes:subtitle>Software development tips and tricks by Nic Raboy</itunes:subtitle>
+        <itunes:owner>
+            <itunes:name>Nic Raboy</itunes:name>
+            <itunes:email>nic@nraboy.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:keywords>
+            programming,development,web,mobile,polyglot,developer,software engineering,server,app
+        </itunes:keywords>
+        <itunes:image href="http://podcasts.thepolyglotdeveloper.com/images/the-polyglot-developer-podcast.png"/>
+        <rawvoice:rating>TV-G</rawvoice:rating>
+        <rawvoice:location>San Francisco, California</rawvoice:location>
+        <rawvoice:frequency>Monthly</rawvoice:frequency>
+        <itunes:category text="Technology"></itunes:category>
+        <itunes:category text="Education"></itunes:category>
+        <pubDate>Sat, 02 Jan 2016 06:00:00 PDT</pubDate>
 
         <item>
-            <title>ALICJA W KRAINIE GRUNGE'U</title>
-            <link>http://www.rockserwis.fm/ftp/9/24/[88856]_EPOKA_9.07.18.mp3</link>
-            <pubDate>Mon, 9 Jul 2018 18:00:00 GMT</pubDate>
-            <description><![CDATA[
-                Wskoczmy za Alicją do króliczej nory i przenieśmy się dwadzieścia-trzydzieści lat wstecz. Obecność na herbatce potwierdzili Szalony Kapelusznik, Belladonna i całkiem spora grupa wycieczkowa z Ameryki. Do usłyszenia po drugiej stronie lustra!
-			]]></description>
-            <guid>http://www.rockserwis.fm/ftp/9/24/[88856]_EPOKA_9.07.18.mp3</guid>
-            <itunes:image href="http://www.rockserwis.fm/ftp/6/255/[88831]_180709_ilustracja.jpg"/>
-            <itunes:explicit>no</itunes:explicit>
-        </item>
+            <title>TPDP001: The Requirements for Building Mobile Applications</title>
+            <link>https://s3-us-west-1.amazonaws.com/podcasts.thepolyglotdeveloper.com/data/2016/TPDP+-+Episode+1+-+The+Requirements+for+Building+Mobile+Applications.mp3</link>
+            <pubDate>Sat, 02 Jan 2016 16:00:00 PDT</pubDate>
+            <description>
+In this episode I talk about what I feel to be requirements in developing mobile applications.  I've broken these requirements into three main categories, being, the planning requirement, the execution requirement, and the post release marketing requirement.  Have you ever wondered the fees for releasing your application to the various app stores or what kind of development hardware you need?  Get all the information you need to get your app development business kick started.
 
-        <item>
-            <title>MIĘDZY SCENĄ A STADIONEM</title>
-            <link>http://www.rockserwis.fm/ftp/2/216/[88024]_EPOKA_ZELAZA_25.06.18.mp3</link>
-            <pubDate>Mon, 25 Jun 2018 18:00:00 GMT</pubDate>
-            <description><![CDATA[
-                To aż niebezpieczne! W najbliższej audycji podgrzejemy jeszcze trochę sportowe emocje, które towarzyszą nam od ponad tygodnia. Rozruszamy się przed dwoma ważnymi koncertami, które czekają nas w najbliższych dniach - a z pewnym klawiszowcem, którego zobaczymy na jednym z nich, odbędziemy nieco dłuższe spotkanie. Do usłyszenia!
-			]]></description>
-            <guid>http://www.rockserwis.fm/ftp/2/216/[88024]_EPOKA_ZELAZA_25.06.18.mp3</guid>
-            <itunes:image href="http://www.rockserwis.fm/ftp/4/174/[87982]_180625_ilustracja.jpg"/>
-            <itunes:explicit>no</itunes:explicit>
+A writeup to this episode can be found via https://www.thepolyglotdeveloper.com/2016/01/tpdp-episode-1-requirements-developing-mobile-applications/ on my blog.
+
+If you have questions that you'd like answered in the next episode, visit https://www.thepolyglotdeveloper.com/podcast-questions and fill out the form.
+            </description>
+            <enclosure url="https://s3-us-west-1.amazonaws.com/podcasts.thepolyglotdeveloper.com/data/2016/TPDP+-+Episode+1+-+The+Requirements+for+Building+Mobile+Applications.mp3" length="36715125" type="audio/mpeg" />
+            <guid>https://s3-us-west-1.amazonaws.com/podcasts.thepolyglotdeveloper.com/data/2016/TPDP+-+Episode+1+-+The+Requirements+for+Building+Mobile+Applications.mp3</guid>
+            <itunes:duration>19:07</itunes:duration>
+            <itunes:summary>
+In this episode I talk about what I feel to be requirements in developing mobile applications.  I've broken these requirements into three main categories, being, the planning requirement, the execution requirement, and the post release marketing requirement.  Have you ever wondered the fees for releasing your application to the various app stores or what kind of development hardware you need?  Get all the information you need to get your app development business kick started.
+
+A writeup to this episode can be found via https://www.thepolyglotdeveloper.com/2016/01/tpdp-episode-1-requirements-developing-mobile-applications/ on my blog.
+
+If you have questions that you'd like answered in the next episode, visit https://www.thepolyglotdeveloper.com/podcast-questions and fill out the form.
+            </itunes:summary>
+            <itunes:image href="http://podcasts.thepolyglotdeveloper.com/images/the-polyglot-developer-podcast.png"/>
+            <itunes:keywords>mobile,android,ios,windows phone,google play,itunes,app development,java,objective-c,swift,javascript</itunes:keywords>
+	        <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
 </rss>
