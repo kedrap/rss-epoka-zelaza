@@ -1,0 +1,11 @@
+# Intellij
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# VS Code
+.vscode/
+
+# Temp
+tmp/
